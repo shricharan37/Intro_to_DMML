@@ -1,6 +1,6 @@
 # Introduction to Data Mining and Machine Learning for Bioinformatics
 
-Welcome to the repository for the course "Introduction to Data Mining and Machine Learning for Bioinformatics". This repository contains exercises that were handled as part of the course during my 7th semester in SASTRA
+Welcome to the repository for the course "Introduction to Data Mining and Machine Learning for Bioinformatics". This repository contains exercises that were handled as part of the course during my 7th semester in SASTRA Deemed University.
 
 ## Repository Structure
 
